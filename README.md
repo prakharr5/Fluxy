@@ -16,8 +16,8 @@ Hibernate
 
 Software to install :
 ..................................
-Java 11
-Netbeans 11.x / Eclipse
-Tomcat 8,9
+Java 
+Netbeans 
+Tomcat 
 MySQL
 SQLYog (GUI)
