@@ -1,3 +1,2 @@
-Online Shopping System
-We created different tables in the database.
+E-Commerce Platform
 Java Console Based Project
